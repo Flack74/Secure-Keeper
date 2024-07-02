@@ -39,7 +39,8 @@ Every password is a unique blend of:
 
 ## 📸 Sneak Peek
 
-[Insert a screenshot of your GUI here]
+![Screenshot 2024-07-03 015131](https://github.com/Flack74/Secure-Keeper/assets/114295423/ecf8f41d-c1d8-4fd3-88a3-dfd3d40b6469)
+
 
 ## 🤝 Contribute
 
