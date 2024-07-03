@@ -39,7 +39,10 @@ Every password is a unique blend of:
 
 ## 📸 Sneak Peek
 
-![Screenshot 2024-07-03 015131](https://github.com/Flack74/Secure-Keeper/assets/114295423/ecf8f41d-c1d8-4fd3-88a3-dfd3d40b6469)
+![Screenshot 2024-07-04 003917](https://github.com/Flack74/Secure-Keeper/assets/114295423/d81ddbf7-dde8-437c-85c7-6108e4d06c26)
+![Screenshot 2024-07-04 003633](https://github.com/Flack74/Secure-Keeper/assets/114295423/bf27824d-726e-4b1e-9882-f515670564a6)
+![Screenshot 2024-07-04 004025](https://github.com/Flack74/Secure-Keeper/assets/114295423/c147c713-b0e9-48da-b5fc-49ee92c6b9df)
+
 
 
 ## 🤝 Contribute
