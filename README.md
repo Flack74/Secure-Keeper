@@ -1,4 +1,4 @@
-# 🌏 GlobalPass: The Multilingual Password Manager 🔐
+# 🌏 Secure Keeper: The Multilingual Password Manager 🔐
 
 Welcome to GlobalPass, where password security meets linguistic diversity! 🚀
 
